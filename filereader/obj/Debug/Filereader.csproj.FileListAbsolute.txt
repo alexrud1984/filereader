@@ -1,0 +1,7 @@
+D:\Projects\advanced\task1\filereader\bin\Debug\filereader.exe.config
+D:\Projects\advanced\task1\filereader\bin\Debug\filereader.exe
+D:\Projects\advanced\task1\filereader\bin\Debug\filereader.pdb
+D:\Projects\advanced\task1\filereader\obj\Debug\filereader.exe
+D:\Projects\advanced\task1\filereader\obj\Debug\filereader.pdb
+D:\Projects\advanced\task1\filereader\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\advanced\task1\filereader\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

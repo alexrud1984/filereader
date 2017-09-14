@@ -1,0 +1,8 @@
+D:\Projects\advanced\task1\filereader\bin\Release\filereader.exe.config
+D:\Projects\advanced\task1\filereader\bin\Release\filereader.exe
+D:\Projects\advanced\task1\filereader\bin\Release\filereader.pdb
+D:\Projects\advanced\task1\filereader\bin\Release\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\advanced\task1\filereader\bin\Release\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\advanced\task1\filereader\obj\Release\filereader.exe
+D:\Projects\advanced\task1\filereader\obj\Release\filereader.pdb
+D:\Projects\advanced\task1\filereader\obj\Release\Filereader.csprojResolveAssemblyReference.cache
