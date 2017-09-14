@@ -74,7 +74,6 @@ namespace Filereader
                 }
             }
             Console.WriteLine("Convertation in Thread #{0} finished", threadNumber);
-            Console.ReadKey();
             return new string(toConvert);
         }
     }

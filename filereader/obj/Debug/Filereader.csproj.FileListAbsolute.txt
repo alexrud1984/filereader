@@ -5,3 +5,4 @@ D:\Projects\advanced\task1\filereader\obj\Debug\filereader.exe
 D:\Projects\advanced\task1\filereader\obj\Debug\filereader.pdb
 D:\Projects\advanced\task1\filereader\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Projects\advanced\task1\filereader\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\advanced\task1\filereader\obj\Debug\Filereader.csprojResolveAssemblyReference.cache
