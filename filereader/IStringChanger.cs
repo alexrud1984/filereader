@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Filereader
 {
-    class Program
+    public interface IStringChanger
     {
-        static void Main(string[] args)
-        {
-            Menu menu = new Menu();
-        }
+        string ChangeString(string stringToChange, int threadsNumber=3);
     }
 }

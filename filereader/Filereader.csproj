@@ -51,9 +51,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TextOperatorThread.cs" />
-    <Compile Include="FileOperator.cs" />
-    <Compile Include="IFileOperator.cs" />
+    <Compile Include="StringChangerThread.cs" />
+    <Compile Include="StringChanger.cs" />
+    <Compile Include="IStringChanger.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
